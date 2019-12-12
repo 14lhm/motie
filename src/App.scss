@@ -1,0 +1,266 @@
+.nav {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+
+
+.ant-menu-item {
+    width: 33.334%;
+    text-align: center;
+}
+
+
+.Invest-body {
+    .Invest-title {
+        height: 10.5vw;
+        background: #fbf9fe;
+        line-height: 10vw;
+        padding-left: 3vw;
+
+        span {
+            color: #333;
+            font-size: 4.5vw;
+            padding-left: 37vw;
+        }
+
+        .icon {
+            font-size: 5vw;
+            color: #ccc;
+        }
+    }
+
+    .Invest-main {
+        padding: 0 4vw 4vw 4vw;
+
+        .Invest-all {
+            padding-top: 5vw;
+            font-size: 4vw;
+
+            span {
+                color: red;
+                padding-right: 2vw;
+            }
+
+            p {
+                margin-top: 4vw;
+                color: #333;
+            }
+        }
+    }
+
+    .Invest-opt {
+        margin-top: 3vw;
+
+        ul {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            height: 100%;
+
+
+
+        }
+
+        li {
+            border: 0.1333vw solid #ccc;
+            border-radius: 2vw;
+            padding: 3vw 3vw 3vw 3vw;
+            text-align: center;
+
+
+            h3 {
+                color: red;
+            }
+
+            span {
+                color: red;
+            }
+        }
+
+        li:nth-child(3) {
+            margin-top: 3vw;
+        }
+
+        li:nth-child(4) {
+            margin-top: 3vw;
+        }
+
+    }
+
+    .Invest-btn {
+        height: 11.5vw;
+        color: #fff;
+        font-size: 4.2vw;
+        line-height: 11.5vw;
+        text-align: center;
+        background-color: #ee5048;
+        border-radius: .59rem;
+        margin-top: 3.5vw;
+    }
+
+    .Invest-wei {
+        margin-top: 3vw;
+        display: flex;
+        justify-content: space-around;
+        font-size: 4.9vw;
+    }
+
+    .Invest-end {
+        text-align: center;
+        padding-top: 3vw;
+        background: #f3f3f3;
+        padding-bottom: 50vw;
+
+        em {
+            color: #c29b61;
+        }
+
+        span {
+            font-size: 4vw;
+
+        }
+
+        p {
+            font-size: 3.8vw;
+        }
+
+        h3 {
+            padding-bottom: 3vw;
+        }
+    }
+}
+
+.chong-body {
+    .chong-title {
+        height: 10.5vw;
+        background: #fbf9fe;
+        line-height: 10vw;
+        padding-left: 3vw;
+
+        span {
+            color: #333;
+            font-size: 3.8vw;
+            padding-left: 33vw;
+        }
+
+        .icon {
+            font-size: 5vw;
+            color: #ccc;
+        }
+    }
+
+    .chong-main {
+        text-align: center;
+        p {
+            margin: 10.86667rem auto .53333rem;
+            width:6.73333rem;
+            height:4.73333rem;
+            background: url(https://pic.motieimg.com/web-wechat/dist/static/img/none-logs-bg.98d1ed5.png);
+            background-size: 6.73333rem 4.73333rem;
+        }
+        span {
+            font-size: 4vw;
+        }
+    }
+}
+.xiaof-body {
+    .xiaof-title {
+        height: 10.5vw;
+        background: #fbf9fe;
+        line-height: 10vw;
+        padding-left: 3vw;
+
+        span {
+            color: #333;
+            font-size: 3.8vw;
+            padding-left: 33vw;
+        }
+
+        .icon {
+            font-size: 5vw;
+            color: #ccc;
+        }
+    }
+
+    .xiaof-main {
+        text-align: center;
+        p {
+            margin: 10.86667rem auto .53333rem;
+            width:6.73333rem;
+            height:4.73333rem;
+            background: url(https://pic.motieimg.com/web-wechat/dist/static/img/none-logs-bg.98d1ed5.png);
+            background-size: 6.73333rem 4.73333rem;
+        }
+        span {
+            font-size: 4vw;
+        }
+    }
+}
+.ding-body {
+    .ding-title {
+        height: 10.5vw;
+        background: #fbf9fe;
+        line-height: 10vw;
+        padding-left: 3vw;
+
+        span {
+            color: #333;
+            font-size: 3.8vw;
+            padding-left: 37vw;
+        }
+
+        .icon {
+            font-size: 5vw;
+            color: #ccc;
+        }
+    }
+
+    .ding-main {
+        text-align: center;
+        p {
+            margin: 10.86667rem auto .53333rem;
+            width:6.73333rem;
+            height:4.73333rem;
+            background: url(https://pic.motieimg.com/web-wechat/dist/static/img/none-logs-bg.98d1ed5.png);
+            background-size: 6.73333rem 4.73333rem;
+        }
+        span {
+            font-size: 4vw;
+        }
+    }
+}
+.huo-body {
+    .huo-title {
+        height: 10.5vw;
+        background: #fbf9fe;
+        line-height: 10vw;
+        padding-left: 3vw;
+
+        span {
+            color: #333;
+            font-size: 3.8vw;
+            padding-left: 37vw;
+        }
+
+        .icon {
+            font-size: 5vw;
+            color: #ccc;
+        }
+    }
+
+    .huo-main {
+        text-align: center;
+        p {
+            margin: 10.86667rem auto .53333rem;
+            width:6.73333rem;
+            height:4.73333rem;
+            background: url(https://pic.motieimg.com/web-wechat/dist/static/img/none-logs-bg.98d1ed5.png);
+            background-size: 6.73333rem 4.73333rem;
+        }
+        span {
+            font-size: 4vw;
+        }
+    }
+}
